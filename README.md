@@ -2,7 +2,7 @@
 # Pizza Restaurant SQL Database Project
 
 ## 🧾 Overview
-This project models the operations of a small café using SQL.  
+This project models the operations of a pizza restaurant using SQL.  
 It includes tables for **orders, menu items, recipes, ingredients, inventory, customers, and staff scheduling**.  
 The goal is to demonstrate practical SQL skills such as **database design, joins, aggregations, and cost analysis**.
 
